@@ -63,25 +63,25 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 
 ### 面试
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试中tcpip，哪些容易被问到的
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   3招搞定面试官，让你对c++后端开发全面了解
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   BAT面试必问的多线程知识
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20道腾讯微视社招面试题学员面经分享
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   阿里面试被鄙视，我的技术该如何学习
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科毕业半年如何搞定华为面试官
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   聊聊线程面试那些事
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   聊—聊面试中的tcpip协议栈
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试，MySQL不了解这些
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试分享
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试现场150行代码写个线程池
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试中，出现概率最高的技术—锁
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试中，红黑树在Linux内核中的3种使用
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试中，手撕线程池不再紧张，一节课都搞定
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试中tcpip，哪些容易被问到的
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   面试中问到的那些分布式问题— zookeeper
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   微信面试心得
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员分享如何搞定面试官涨薪12W
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   5000道“八股文”，还需要“死记硬背”吗？90分钟梳理清晰
+* 提取码: 3azm &nbsp;&nbsp;&nbsp;   [面试中tcpip，哪些容易被问到的](https://pan.baidu.com/s/1QrX902xinSgSL-BEqGydqQ)
+* 提取码: ak3n &nbsp;&nbsp;&nbsp;   [3招搞定面试官，让你对c++后端开发全面了解](https://pan.baidu.com/s/1xD1H77NaBqC8rOYLA3v3FQ)
+* 提取码: wj53 &nbsp;&nbsp;&nbsp;   [BAT面试必问的多线程知识](https://pan.baidu.com/s/1nQAusd1xBGpqZ4iB6qEBGg)
+* 提取码: 1hp6 &nbsp;&nbsp;&nbsp;   [20道腾讯微视社招面试题学员面经分享](https://pan.baidu.com/s/1RJ-X5W9rUhFQfyLgjFyozg)
+* 提取码: cqji &nbsp;&nbsp;&nbsp;   [阿里面试被鄙视，我的技术该如何学习](https://pan.baidu.com/s/1OPza_DQeImtoh7gf5IwP-w)
+* 提取码: 3agg &nbsp;&nbsp;&nbsp;   [本科毕业半年如何搞定华为面试官](https://pan.baidu.com/s/1A-OwgZCujk1SU_KM3NFmvw)
+* 提取码: ivm1 &nbsp;&nbsp;&nbsp;   [聊聊线程面试那些事](https://pan.baidu.com/s/1aQpLkTDBvk4PCgDEaDflBw)
+* 提取码: zw1d &nbsp;&nbsp;&nbsp;   [聊—聊面试中的tcpip协议栈](https://pan.baidu.com/s/1m4VDNDNaRtAVKRpywEHqhQ)
+* 提取码: 9c18 &nbsp;&nbsp;&nbsp;   [面试，MySQL不了解这些](https://pan.baidu.com/s/1UW7pzZsuzPIr1JvRf0XpOg)
+* 提取码: pxmn &nbsp;&nbsp;&nbsp;   [面试分享](https://pan.baidu.com/s/1TMBzezVkcjNiX-jqPEAUAQ)
+* 提取码: rfq0 &nbsp;&nbsp;&nbsp;   [面试现场150行代码写个线程池](https://pan.baidu.com/s/140VzLcA860UuCnbimlRMNQ)
+* 提取码: ye1w &nbsp;&nbsp;&nbsp;   [面试中，出现概率最高的技术—锁](https://pan.baidu.com/s/1HhNwMD0YWok7jTvLdWP1eQ)
+* 提取码: r6i4 &nbsp;&nbsp;&nbsp;   [面试中，红黑树在Linux内核中的3种使用](https://pan.baidu.com/s/11HgwasoX4TutF_uWM5AxiA)
+* 提取码: eizw &nbsp;&nbsp;&nbsp;   [面试中，手撕线程池不再紧张，一节课都搞定](https://pan.baidu.com/s/1n-fOixTtgPAot6JDvdzH-Q)
+* 提取码: 8hpu &nbsp;&nbsp;&nbsp;   [面试中tcpip，哪些容易被问到的](https://pan.baidu.com/s/1w6aJ1IjZkHKKQumud0uiJg)
+* 提取码: ohdi &nbsp;&nbsp;&nbsp;   [面试中问到的那些分布式问题— zookeeper](https://pan.baidu.com/s/1r2BNhZeuRma7EglgH-werA)
+* 提取码: zzcc &nbsp;&nbsp;&nbsp;   [微信面试心得](https://pan.baidu.com/s/1ntGsA6zk0wwsJLdEF4S-dg)
+* 提取码: o7t4 &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官涨薪12W](https://pan.baidu.com/s/16fDzFh7TVOOrkatrfWHITw)
+* 提取码: txgw &nbsp;&nbsp;&nbsp;   [5000道“八股文”，还需要“死记硬背”吗？90分钟梳理清晰](https://pan.baidu.com/s/1yLlDHvS683kLIVsM-gNCTQ)
 
 <br/>
 
