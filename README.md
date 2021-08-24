@@ -52,6 +52,13 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   清华学员秋招面经分享会美团字节offer在手
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   秋招斩获字节&快手offer
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员亲身经历分享，腾讯offer的获取之路
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科6年经验如何打破瓶颈——实现薪资翻倍
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科毕业半年如何搞定华为面试官
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   从外包裸辞6个月，跳到金山薪资翻倍
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   普通二本校招找工作，如何脱颖而出，拿下B站offer
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员亲身经历分享，对话King老师1.为什么不推荐大家去嵌入式岗位2...
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员分享如何搞定面试官涨薪12W
+
 
 <br/>
 
