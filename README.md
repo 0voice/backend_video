@@ -250,19 +250,19 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   90分钟搞定FFmpeg入门
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   90分钟解决音视频同步的各种坑
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   -聊聊音视频同步那些坑
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200611_B站播放设计原理和实现
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200714_万人在线会议系统开发实践
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200723_音视频直播的各种坑
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200730_SRS直播流媒体服务器框架分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200807_一堂课搞定SRS流媒体服务器开发进阶
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200815-全网唯一的ffmpeg命令源码分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200912_音视频岗位面试问到的播放器问题
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200914_百万级SRS流媒体服务器源码分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200925_罗永浩百万人直播背后的技术分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20201002_CC++程序员5G时代的风口-音视频开发
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20201008_当音频和视频不同步时该怎么分析和解决
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20201020_腾讯会议背后的核心技术剖析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20201029_音视频开发第一个项目-播放器设计
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   B站播放设计原理和实现
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   万人在线会议系统开发实践
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频直播的各种坑
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   SRS直播流媒体服务器框架分析
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   一堂课搞定SRS流媒体服务器开发进阶
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   全网唯一的ffmpeg命令源码分析
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频岗位面试问到的播放器问题
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   百万级SRS流媒体服务器源码分析
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   罗永浩百万人直播背后的技术分析
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   C/C++程序员5G时代的风口-音视频开发
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   当音频和视频不同步时该怎么分析和解决
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   腾讯会议背后的核心技术剖析
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频开发第一个项目-播放器设计
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   B站播放器设计原理和实现-SRS-RTMP-HLS-DASH-WEBRTC
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   FFmpeg常用结构体及ffplay框架分析
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   FFmpeg之音视频同步原理分析
@@ -277,7 +277,7 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   直播拉流关键技术点分析
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   全球Star第一的流媒体服务器SRS4.0 WebRTC音视频通话分析
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   低延迟播放器-变速播放实现
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   CC++程序员进入互联网公司的捷径-WebRTC开发
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   C/C++程序员进入互联网公司的捷径-WebRTC开发
 
 ## <h2 id="nav_3">Linux内核源码专栏</h2>
 
