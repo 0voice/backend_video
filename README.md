@@ -44,20 +44,20 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 ### Offer
 
 * 提取码: z35q &nbsp;&nbsp;&nbsp;   [30天拿下高薪offer涨薪10W](https://pan.baidu.com/s/1J0n3kSMrh7IyFbuUj6yj6Q)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员亲身经历分享, 腾讯offer的获取之路
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科毕业三年，如何拿到月薪35K & 360offer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科校招阿里云23K13薪offer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   非科班学员斩获京东校招28woffer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   工程师技术，面试，简历如何塑造，轻松拿到offer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   清华学员秋招面经分享会美团字节offer在手
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   秋招斩获字节&快手offer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员亲身经历分享，腾讯offer的获取之路
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科6年经验如何打破瓶颈——实现薪资翻倍
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   本科毕业半年如何搞定华为面试官
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   从外包裸辞6个月，跳到金山薪资翻倍
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   普通二本校招找工作，如何脱颖而出，拿下B站offer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员亲身经历分享，对话King老师1.为什么不推荐大家去嵌入式岗位2...
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   学员分享如何搞定面试官涨薪12W
+* 提取码: ub2s &nbsp;&nbsp;&nbsp;   [学员亲身经历分享, 腾讯offer的获取之路](https://pan.baidu.com/s/1YibjEQh16H6fcNSVLNkLIQ)
+* 提取码: 5x9d &nbsp;&nbsp;&nbsp;   [本科毕业三年，如何拿到月薪35K & 360offer](https://pan.baidu.com/s/1ksbXygyDAH1aZEW8Cw5Ozg)
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [本科校招阿里云23K13薪offer]()
+* 提取码: sr8s &nbsp;&nbsp;&nbsp;   [非科班学员斩获京东校招28woffer](https://pan.baidu.com/s/1TfXCBc6lGIel3LcUP7UZpA)
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [工程师技术，面试，简历如何塑造，轻松拿到offer]()
+* 提取码: bbj9 &nbsp;&nbsp;&nbsp;   [清华学员秋招面经分享会美团字节offer在手](https://pan.baidu.com/s/1k9ngRIZuzSq0WjvHrcwnYQ)
+* 提取码: jv3l &nbsp;&nbsp;&nbsp;   [秋招斩获字节&快手offer](https://pan.baidu.com/s/1wh2KgtHyAv-I7hJeV3_TeA)
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [学员亲身经历分享，腾讯offer的获取之路]()
+* 提取码: t1fj &nbsp;&nbsp;&nbsp;   [本科6年经验如何打破瓶颈——实现薪资翻倍](https://pan.baidu.com/s/1ipl43bIGTei9pWw6MbhN9g)
+* 提取码: wwl8 &nbsp;&nbsp;&nbsp;   [本科毕业半年如何搞定华为面试官](https://pan.baidu.com/s/1Dp-uE8hc04sEP2ljBAxnzQ)
+* 提取码: pu26 &nbsp;&nbsp;&nbsp;   [从外包裸辞6个月，跳到金山薪资翻倍](https://pan.baidu.com/s/1OKd2TYz-QMrpIxp2GEFHFA)
+* 提取码: ekc1 &nbsp;&nbsp;&nbsp;   [普通二本校招找工作，如何脱颖而出，拿下B站offer](https://pan.baidu.com/s/1FWdG7pDs7OR7MxT4wQf5eg)
+* 提取码: un50 &nbsp;&nbsp;&nbsp;   [学员亲身经历分享](https://pan.baidu.com/s/1MUIdlKuRZAYUiHFMlmWn_Q)
+* 提取码: zmxk &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官涨薪12W](https://pan.baidu.com/s/1ewCaZoxHbqPTtrTGcB2tMQ)
 
 <br/>
 
