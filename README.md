@@ -216,31 +216,31 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 
 ### 开源框架
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   服务端高级架构—云风的skynet
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   zero down-time更新服务程序
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   —小时搞定脚本监控
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   带上你的小板凳，听King老师讲讲程序员创业
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   同样工作10年，为什么差别会如此之大
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   其他语言不能做的事情，用c/c++来搞定,经典6问
+* 提取码: v1f4 &nbsp;&nbsp;&nbsp;   [服务端高级架构—云风的skynet](https://pan.baidu.com/s/1UKC5g1meuPXXYmYymm3CWg)
+* 提取码: w6po &nbsp;&nbsp;&nbsp;   [zero down-time更新服务程序](https://pan.baidu.com/s/1CjQmNrQILFjrCOkUDQ1chQ)
+* 提取码: wtud &nbsp;&nbsp;&nbsp;   [—小时搞定脚本监控](https://pan.baidu.com/s/1_Cj-K2Rdh-93DXh9ndNEsg)
+* 提取码: ju1h &nbsp;&nbsp;&nbsp;   [带上你的小板凳，听King老师讲讲程序员创业](https://pan.baidu.com/s/1fy87jcH15_HpUJSoNmkkaQ)
+* 提取码: g9ov &nbsp;&nbsp;&nbsp;   [同样工作10年，为什么差别会如此之大](https://pan.baidu.com/s/1RNF3JeVcYMcYYz5Dd-0kQA)
+* 提取码: 36wd &nbsp;&nbsp;&nbsp;   [其他语言不能做的事情，用c/c++来搞定,经典6问](https://pan.baidu.com/s/1BHWGmtfsk_k-Kn0WdN30vw)
 
 <br/>
 
 ### 分布式架构
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   微服务架构必备利器-ETCD注册发现服务
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   要想微服务，先搞定RPC
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   C/C++黄金方向之分布式存储
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   手把手教你实现分布式锁
+* 提取码: bk4f &nbsp;&nbsp;&nbsp;   [微服务架构必备利器-ETCD注册发现服务](https://pan.baidu.com/s/19I0blBurUwdHNh0MYOSJLA)
+* 提取码: 98fg &nbsp;&nbsp;&nbsp;   [要想微服务，先搞定RPC](https://pan.baidu.com/s/1j_YOP9ta3GMp8DU597nYMA)
+* 提取码: 47fq &nbsp;&nbsp;&nbsp;   [c++方向-分布式存储-fastdfs-ceph](https://pan.baidu.com/s/1I98kFiJ3pzOrjIyu_mag7Q)
+* 提取码: fm0u &nbsp;&nbsp;&nbsp;   [手把手教你实现分布式锁](https://pan.baidu.com/s/16cfJeQUzLVA9GTbsdwG57Q)
 
 <br/>
 
 ### 项目
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   架构师与工程师眼里的即时通讯
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   手撕万人在线游戏服务器
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   起来聊聊即时通讯架构技术选项
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   起来聊聊微信的架构设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   即时通讯的软件架构与设计，请带上小板凳
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [架构师与工程师眼里的即时通讯](https://pan.baidu.com/s/1O3411E48Ck9Oj-uRbDLJeA)
+* 提取码: p75b &nbsp;&nbsp;&nbsp;   [手撕万人在线游戏服务器](https://pan.baidu.com/s/1qjJkuIUReQS8z-ltcp_46g)
+* 提取码: tplb &nbsp;&nbsp;&nbsp;   [起来聊聊即时通讯架构技术选项](https://pan.baidu.com/s/1TENeFNLRktZhEvOYEc5Z3g)
+* 提取码: jk6b &nbsp;&nbsp;&nbsp;   [起来聊聊微信的架构设计](https://pan.baidu.com/s/1yS9PlGEqwx3GA1p-wVEPCQ)
+* 提取码: ek17 &nbsp;&nbsp;&nbsp;   [即时通讯的软件架构与设计，请带上小板凳](https://pan.baidu.com/s/1ZEt9jyyhQLFr4hrkeXJ9ww)
 
 <br/>
 <br/>
