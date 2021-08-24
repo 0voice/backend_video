@@ -43,21 +43,21 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 
 ### Offer
 
-* 提取码: z35q &nbsp;&nbsp;&nbsp;   [30天拿下高薪offer涨薪10W](https://pan.baidu.com/s/1J0n3kSMrh7IyFbuUj6yj6Q)
+* 提取码: z35q &nbsp;&nbsp;&nbsp;   [30天拿下高薪offer](https://pan.baidu.com/s/1J0n3kSMrh7IyFbuUj6yj6Q)
 * 提取码: ub2s &nbsp;&nbsp;&nbsp;   [学员亲身经历分享, 腾讯offer的获取之路](https://pan.baidu.com/s/1YibjEQh16H6fcNSVLNkLIQ)
-* 提取码: 5x9d &nbsp;&nbsp;&nbsp;   [本科毕业三年，如何拿到月薪35K & 360offer](https://pan.baidu.com/s/1ksbXygyDAH1aZEW8Cw5Ozg)
-* 提取码: 1mh0 &nbsp;&nbsp;&nbsp;   [本科校招阿里云23K13薪offer](https://pan.baidu.com/s/1dLw88AebQ1FW6n60jrrpmw)
-* 提取码: sr8s &nbsp;&nbsp;&nbsp;   [非科班学员斩获京东校招28woffer](https://pan.baidu.com/s/1TfXCBc6lGIel3LcUP7UZpA)
+* 提取码: 5x9d &nbsp;&nbsp;&nbsp;   [本科毕业三年，如何拿到360offer](https://pan.baidu.com/s/1ksbXygyDAH1aZEW8Cw5Ozg)
+* 提取码: 1mh0 &nbsp;&nbsp;&nbsp;   [本科校招阿里云offer](https://pan.baidu.com/s/1dLw88AebQ1FW6n60jrrpmw)
+* 提取码: sr8s &nbsp;&nbsp;&nbsp;   [非科班学员斩获京东校招offer](https://pan.baidu.com/s/1TfXCBc6lGIel3LcUP7UZpA)
 * 提取码: y9ao &nbsp;&nbsp;&nbsp;   [工程师技术，面试，简历如何塑造，轻松拿到offer](https://pan.baidu.com/s/1EEhtTjIZoqsELZzv-UfePg)
 * 提取码: bbj9 &nbsp;&nbsp;&nbsp;   [清华学员秋招面经分享会美团字节offer在手](https://pan.baidu.com/s/1k9ngRIZuzSq0WjvHrcwnYQ)
 * 提取码: jv3l &nbsp;&nbsp;&nbsp;   [秋招斩获字节&快手offer](https://pan.baidu.com/s/1wh2KgtHyAv-I7hJeV3_TeA)
 * 提取码: snwe &nbsp;&nbsp;&nbsp;   [学员亲身经历分享，腾讯offer的获取之路](https://pan.baidu.com/s/1xFCKxCJzNifYTVRjlyClGg)
-* 提取码: t1fj &nbsp;&nbsp;&nbsp;   [本科6年经验如何打破瓶颈——实现薪资翻倍](https://pan.baidu.com/s/1ipl43bIGTei9pWw6MbhN9g)
+* 提取码: t1fj &nbsp;&nbsp;&nbsp;   [本科6年经验如何打破瓶颈](https://pan.baidu.com/s/1ipl43bIGTei9pWw6MbhN9g)
 * 提取码: wwl8 &nbsp;&nbsp;&nbsp;   [本科毕业半年如何搞定华为面试官](https://pan.baidu.com/s/1Dp-uE8hc04sEP2ljBAxnzQ)
-* 提取码: pu26 &nbsp;&nbsp;&nbsp;   [从外包裸辞6个月，跳到金山薪资翻倍](https://pan.baidu.com/s/1OKd2TYz-QMrpIxp2GEFHFA)
+* 提取码: pu26 &nbsp;&nbsp;&nbsp;   [从外包裸辞6个月，跳到金山](https://pan.baidu.com/s/1OKd2TYz-QMrpIxp2GEFHFA)
 * 提取码: ekc1 &nbsp;&nbsp;&nbsp;   [普通二本校招找工作，如何脱颖而出，拿下B站offer](https://pan.baidu.com/s/1FWdG7pDs7OR7MxT4wQf5eg)
 * 提取码: un50 &nbsp;&nbsp;&nbsp;   [学员亲身经历分享](https://pan.baidu.com/s/1MUIdlKuRZAYUiHFMlmWn_Q)
-* 提取码: zmxk &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官涨薪12W](https://pan.baidu.com/s/1ewCaZoxHbqPTtrTGcB2tMQ)
+* 提取码: zmxk &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官](https://pan.baidu.com/s/1ewCaZoxHbqPTtrTGcB2tMQ)
 
 <br/>
 
@@ -82,47 +82,44 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: zzcc &nbsp;&nbsp;&nbsp;   [微信面试心得](https://pan.baidu.com/s/1ntGsA6zk0wwsJLdEF4S-dg)
 * 提取码: o7t4 &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官涨薪12W](https://pan.baidu.com/s/16fDzFh7TVOOrkatrfWHITw)
 * 提取码: txgw &nbsp;&nbsp;&nbsp;   [5000道“八股文”，还需要“死记硬背”吗？90分钟梳理清晰](https://pan.baidu.com/s/1yLlDHvS683kLIVsM-gNCTQ)
+* 提取码: pb65 &nbsp;&nbsp;&nbsp;   [大厂面试必问的UDP应用场景分析-TCP-epoll-reactor](https://pan.baidu.com/s/1jFEWlgc6Le91eniR5i2HDQ)
+* 提取码: jktg &nbsp;&nbsp;&nbsp;   [大厂面试必问-如何实现UDP可靠性传输](https://pan.baidu.com/s/1Cy28P5qX9Goq4lHPWA-n2w)
 
 <br/>
 
 ### 数据结构与算法
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   红黑树，在Linux内核的那些故事
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   红黑树应用
+* 提取码: yjlm &nbsp;&nbsp;&nbsp;   [红黑树，在Linux内核的那些故事](https://pan.baidu.com/s/1fyWWI3fcoJbjm1aDX4p8CA)
+* 提取码: 3pjw &nbsp;&nbsp;&nbsp;   [红黑树应用](https://pan.baidu.com/s/149IWgngEmAoLbKiVtYLSwg)
 
 <br/>
 
 ### 协议
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   TCPIP协议栈，—次课开启你的网络之门
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   tcpip协议栈不为人知的秘密
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   tcp专题训练营第二天
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   tcp专题训练营第—天(1)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   tcp专题训练营第一天(2)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   后台开发必备协议protobuf (1)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   后台开发必备协议protobuf-20190731
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   tcpip协议栈与网络API的关联
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高并发tcpip 网络io
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   大厂面试,udp不了解这些，何以过关
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   如何在工作中用好UDP传输
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   服务器通信协议设计的坑
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   万物互联的根本-通信协议设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   大厂面试必问的UDP应用场景分析-TCP-epoll-reactor
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   风口最火的WebRTC Janus项目分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   90分钟搞定tcpip协议栈(2)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   服务器通信协议设计与思考(2)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   王者荣耀如何使用UDP做到低延迟
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高并发的TCP长连接
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   还对tcpip不透彻吗?不要错过今天的课，带上小板凳
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   King-那些很重要，但是不常用的技术,websocket
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   如何解决UDP传输乱序问题
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   深入理解websocket，为你的项目多条思路
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   深入聊聊websocket协议，restful, tcp分包与粘包
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   关于服务通信协议和序列化协议的一些思考分享
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   大厂面试必问-如何实现UDP可靠性传输
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   即时通讯网页版本的实现方案，websocket的原理
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   必知必会的服务器通信协议设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   徒手实现一个网络协议栈
+* 提取码: hf2a &nbsp;&nbsp;&nbsp;   [TCPIP协议栈，—次课开启你的网络之门](https://pan.baidu.com/s/1je4ff3b_y0xbHXWvoge1Zg)
+* 提取码: bphv &nbsp;&nbsp;&nbsp;   [tcpip协议栈不为人知的秘密](https://pan.baidu.com/s/1x-TUuGu-mDEdSb9HLCTaCg)
+* 提取码: jon6 &nbsp;&nbsp;&nbsp;   [tcp专题训练营第一天](https://pan.baidu.com/s/1J-gBW8C5iWNFm0QQ9LfIyQ)
+* 提取码: 2k3m &nbsp;&nbsp;&nbsp;   [tcp专题训练营第二天](https://pan.baidu.com/s/1SV6m_ERESBtCVavDg_IwZA)
+* 提取码: mda1 &nbsp;&nbsp;&nbsp;   [后台开发必备协议protobuf](https://pan.baidu.com/s/1fn_O3ahQfbVPLOvxy0tWmg)
+* 提取码: lpwm &nbsp;&nbsp;&nbsp;   [tcpip协议栈与网络API的关联](https://pan.baidu.com/s/1LuS-RaL0fuwKMwcjg-PkQA)
+* 提取码: klus &nbsp;&nbsp;&nbsp;   [高并发tcpip 网络io](https://pan.baidu.com/s/1TIPhJGM8KCdXw6TAS4Ozng)
+* 提取码: bonf &nbsp;&nbsp;&nbsp;   [大厂面试,udp不了解这些，何以过关](https://pan.baidu.com/s/16SVF-F26JE_XmG5jEx3zQQ)
+* 提取码: lw1l &nbsp;&nbsp;&nbsp;   [如何在工作中用好UDP传输](https://pan.baidu.com/s/1ZdTyLWZO9Nm6WmlGgIq43A)
+* 提取码: g392 &nbsp;&nbsp;&nbsp;   [服务器通信协议设计的坑](https://pan.baidu.com/s/1PmV4EEwvPI_GgXYblwqI5g)
+* 提取码: ci5g &nbsp;&nbsp;&nbsp;   [万物互联的根本-通信协议设计](https://pan.baidu.com/s/1nS536CaT400LvEusm6JRZw)
+* 提取码: 3gr9 &nbsp;&nbsp;&nbsp;   [90分钟搞定tcpip协议栈(2)](https://pan.baidu.com/s/1JWvBWBMCVIjiC4UktAUuYg)
+* 提取码: 6f80 &nbsp;&nbsp;&nbsp;   [服务器通信协议设计与思考(2)](https://pan.baidu.com/s/1vomStnotIol_PcUiyTkNSw)
+* 提取码: 9wad &nbsp;&nbsp;&nbsp;   [王者荣耀如何使用UDP做到低延迟](https://pan.baidu.com/s/1b1eyDDkxpHf3J7Y2jLozSg)
+* 提取码: s8ko &nbsp;&nbsp;&nbsp;   [高并发的TCP长连接](https://pan.baidu.com/s/1M8kJuJsLAC2yze4h72KplA)
+* 提取码: 4woc &nbsp;&nbsp;&nbsp;   [还对tcpip不透彻吗?不要错过今天的课，带上小板凳](https://pan.baidu.com/s/1CNXfbByQepLtNu3A9c9dsw)
+* 提取码: wfir &nbsp;&nbsp;&nbsp;   [那些很重要，但是不常用的技术,websocket](https://pan.baidu.com/s/1hQuYDIoJe29JdJFn57Ttbg)
+* 提取码: k5n5 &nbsp;&nbsp;&nbsp;   [如何解决UDP传输乱序问题](https://pan.baidu.com/s/1ee4qWfm-8fLUpEleJVnHRg)
+* 提取码: ypf8 &nbsp;&nbsp;&nbsp;   [深入理解websocket，为你的项目多条思路](https://pan.baidu.com/s/1vs--2HILFVFlZMrNcEl81Q)
+* 提取码: uy8j &nbsp;&nbsp;&nbsp;   [深入聊聊websocket协议，restful, tcp分包与粘包](https://pan.baidu.com/s/1p2RnNdRGMKreAoLScJWwWw)
+* 提取码: klwf &nbsp;&nbsp;&nbsp;   [关于服务通信协议和序列化协议的一些思考分享](https://pan.baidu.com/s/1TcVRZMkXqpM7fq07Dgl6Pw)
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [即时通讯网页版本的实现方案，websocket的原理]()
+* 提取码: msno &nbsp;&nbsp;&nbsp;   [必知必会的服务器通信协议设计](https://pan.baidu.com/s/1BfX8qRXw1UxmA2Vn7TVnSQ)
+* 提取码: lr3t &nbsp;&nbsp;&nbsp;   [徒手实现一个网络协议栈](https://pan.baidu.com/s/1yJ-m680FIGPMMSGvzJZBZA)
 
 <br/>
 
@@ -292,6 +289,7 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   全球Star第一的流媒体服务器SRS4.0 WebRTC音视频通话分析
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   低延迟播放器-变速播放实现
 * 提取码: 1234 &nbsp;&nbsp;&nbsp;   C/C++程序员进入互联网公司的捷径-WebRTC开发
+* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [风口最火的WebRTC Janus项目分析](https://pan.baidu.com/s/1lV77qmvZt3vW_wDxkGWFcw)
 
 <br/>
 
