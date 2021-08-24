@@ -125,46 +125,40 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 
 ### 高性能网络设计
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   聊聊腾讯面试问到的多线程
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   0~100亿PV的网络接入层架构
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   1-我们来聊聊进程的那些事
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   2-我们来聊聊线程的那些事
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   20200902_聊聊线程面试那些事-协程-进程-st-thread
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   还在为锁困扰吗?高并发锁方案解析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   从“惊群”问题来看高并发锁方案
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   从“惊群”问题来看，高并发锁方案
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   服务器性能优化—异步的效率(2)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   服务器性能优化—异步的效率
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   服务器性能优化—异步的效率
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高并发场景下的单机服务模型
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高并发的单机网络服务模型
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高性能服务器为什口口口口口0000口么需要内存池
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   聊点通俗的，锁，原子操作，CAS。面试常备技能
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   抗击疫情，技术大复习，聊聊网络穿透
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   后台服务进程挂了怎么办
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   还在为锁困扰吗?高并发下的锁方案
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   聊—聊你知道的与不知道的锁
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   内网外网，网络穿透，打洞，P2P，90分钟搞定
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   如何让你的程序性能飞升
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   事件驱动编程之美
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   事件驱动式编程之美
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   手撕线程池，200行代码搞定
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   网络穿透，NAT，打洞，一起来了解p2p的秘密
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   性能优化的方法论,异步的原理与实现，mysqlredis,dns, http，服务器并发
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   起来实现通信协议
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   支撑亿级io的底层基石epoll实战揭秘
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   90分钟搞定底层网络IO模型，必须要懂得10种模型
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高并发tcpip网络io
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   epoll的网络模型,从redis, memcached到nginx
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   reactor设计和线程池实现高并发服务
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   进程与CPU的故事
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   内网，外网，网络穿话，NAT，带上小板凳，一切搞定
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   区块链的底层，去中心化网络的设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   去中心化, p2p，网络穿透一起搞定
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   深入浅出UDP传输原理及数据分片方法
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   线程那些事
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   让90%程序员蛋疼的“死锁”，如何彻底解决
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   程序员精进之路-从googletest测试框架开始
+* 提取码: tmew &nbsp;&nbsp;&nbsp;   [聊聊腾讯面试问到的多线程](https://pan.baidu.com/s/1DN_tcFwKKFhV6HlBJpzARw)
+* 提取码: eu19 &nbsp;&nbsp;&nbsp;   [我们来聊聊进程的那些事](https://pan.baidu.com/s/1zTSb73rCKt96DypKpIuoMQ)
+* 提取码: tgnu &nbsp;&nbsp;&nbsp;   [聊聊线程面试那些事-协程-进程-st-thread](https://pan.baidu.com/s/1X40_z8C8xaZ1kUnXxDSZhg)
+* 提取码: sw3o &nbsp;&nbsp;&nbsp;   [还在为锁困扰吗?高并发锁方案解析](https://pan.baidu.com/s/1CKtOUWS8VLSA4JPAQ1rJlA)
+* 提取码: iqxj &nbsp;&nbsp;&nbsp;   [从“惊群”问题来看高并发锁方案](https://pan.baidu.com/s/12NX9uB6D8G-wS_gULjth_w)
+* 提取码: 1pgp &nbsp;&nbsp;&nbsp;   [服务器性能优化—异步的效率](https://pan.baidu.com/s/1tDXub4qbIyirxgvsxh8JMQ)
+* 提取码: qjfk &nbsp;&nbsp;&nbsp;   [高并发场景下的单机服务模型](https://pan.baidu.com/s/1rz9EQ4mFXh2z4SSnNBti7A)
+* 提取码: khf5 &nbsp;&nbsp;&nbsp;   [高并发的单机网络服务模型](https://pan.baidu.com/s/1gLJRc8Qb66G7bM0_Zajyhw)
+* 提取码: b76x &nbsp;&nbsp;&nbsp;   [高性能服务器为什口口口口口0000口么需要内存池](https://pan.baidu.com/s/1CwoRIrRHs6EGlnvq8Z0mVg)
+* 提取码: wm4n &nbsp;&nbsp;&nbsp;   [聊点通俗的，锁，原子操作，CAS。面试常备技能](https://pan.baidu.com/s/1A4YM4LAv1yhQNSLQdxEFOg)
+* 提取码: uk8p &nbsp;&nbsp;&nbsp;   [抗击疫情，技术大复习，聊聊网络穿透](https://pan.baidu.com/s/19KS8GpFkjiw2fr-JqM1Kpw)
+* 提取码: plhk &nbsp;&nbsp;&nbsp;   [后台服务进程挂了怎么办](https://pan.baidu.com/s/1EcLEE4akhQ2FDWfQwRCOAQ)
+* 提取码: j9qw &nbsp;&nbsp;&nbsp;   [还在为锁困扰吗?高并发下的锁方案](https://pan.baidu.com/s/1s9rM4UBxr0R2c-tckpSzhA)
+* 提取码: hv5c &nbsp;&nbsp;&nbsp;   [聊—聊你知道的与不知道的锁](https://pan.baidu.com/s/1MumSdyLEH7tosjQ_dDoqlg)
+* 提取码: 7dpp &nbsp;&nbsp;&nbsp;   [内网外网，网络穿透，打洞，P2P，90分钟搞定](https://pan.baidu.com/s/15eGkWXyAZufFUQx7gtUBwQ)
+* 提取码: 1cv5 &nbsp;&nbsp;&nbsp;   [如何让你的程序性能飞升](https://pan.baidu.com/s/16AJMYpxoDu7g8ycAjokuxA)
+* 提取码: le0i &nbsp;&nbsp;&nbsp;   [事件驱动编程之美](https://pan.baidu.com/s/1QSiSsbIHmKeT1nW9YYvuHw)
+* 提取码: l4a1 &nbsp;&nbsp;&nbsp;   [手撕线程池，200行代码搞定](https://pan.baidu.com/s/1pKHRjbNSQdu-MB-4WyZz8w)
+* 提取码: gnop &nbsp;&nbsp;&nbsp;   [网络穿透，NAT，打洞，一起来了解p2p的秘密](https://pan.baidu.com/s/1RHN2e4K58grrQYUtO2eiVQ)
+* 提取码: yvug &nbsp;&nbsp;&nbsp;   [性能优化的方法论,异步的原理与实现，mysqlredis,dns, http，服务器并发](https://pan.baidu.com/s/1_J6hy60KR-L1qGnHSoU_mA)
+* 提取码: rgyr &nbsp;&nbsp;&nbsp;   [起来实现通信协议](https://pan.baidu.com/s/1IL0TTo0O4g87BbYT9HllrA)
+* 提取码: 1ef1 &nbsp;&nbsp;&nbsp;   [支撑亿级io的底层基石epoll实战揭秘](https://pan.baidu.com/s/1Tq3d4WiH4PRReBPLaQhvJA)
+* 提取码: etwq &nbsp;&nbsp;&nbsp;   [90分钟搞定底层网络IO模型，必须要懂得10种模型](https://pan.baidu.com/s/1PO1dywIeYX4WfNznOK1O-A)
+* 提取码: 84mc &nbsp;&nbsp;&nbsp;   [高并发tcpip网络io](https://pan.baidu.com/s/1If0ilLRPbS2ELOYoZRDVSg)
+* 提取码: 78t3 &nbsp;&nbsp;&nbsp;   [epoll的网络模型,从redis, memcached到nginx](https://pan.baidu.com/s/1YM4p9ikUS8qNWhaLrAPuWw)
+* 提取码: so3e &nbsp;&nbsp;&nbsp;   [reactor设计和线程池实现高并发服务](https://pan.baidu.com/s/1v37Td9jCISyRNscf5hIzvg)
+* 提取码: p57v &nbsp;&nbsp;&nbsp;   [进程与CPU的故事](https://pan.baidu.com/s/1lXoG9nrSzrOxQsVmQO9rtQ)
+* 提取码: wp49 &nbsp;&nbsp;&nbsp;   [内网，外网，网络穿话，NAT，带上小板凳，一切搞定](https://pan.baidu.com/s/15IkR0csEmspFQl_uaMwEHQ)
+* 提取码: 5pvd &nbsp;&nbsp;&nbsp;   [区块链的底层，去中心化网络的设计](https://pan.baidu.com/s/1vP1yc25Q1csSWRl-GbvWCg)
+* 提取码: 6xh1 &nbsp;&nbsp;&nbsp;   [去中心化, p2p，网络穿透一起搞定](https://pan.baidu.com/s/1eAgCpEj_IEm1notoNG9SZQ)
+* 提取码: f7zd &nbsp;&nbsp;&nbsp;   [深入浅出UDP传输原理及数据分片方法](https://pan.baidu.com/s/11JUyqUFPxNUtlRdQEQKmjg)
+* 提取码: zp2u &nbsp;&nbsp;&nbsp;   [线程那些事](https://pan.baidu.com/s/19DUzxkBn-B0CFT8XjEbysg)
+* 提取码: lwq0 &nbsp;&nbsp;&nbsp;   [让90%程序员蛋疼的“死锁”，如何彻底解决](https://pan.baidu.com/s/1Lcua7Zxbpu2PUbcOrPL6ig)
+* 提取码: r7jn &nbsp;&nbsp;&nbsp;   [程序员精进之路-从googletest测试框架开始](https://pan.baidu.com/s/1LlCFrPm3k_c4ok2Xp1Ve1g)
 
 <br/>
 
