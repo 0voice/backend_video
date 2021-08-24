@@ -32,13 +32,13 @@
 
 <div align=center>
   
-Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源码 
-:------------:|:------------:|:------------:|:------------:
-[🍳](#nav_1)  |[🐕‍🦺](#nav_2)  |[🎵](#nav_3)  |[🌰](#nav_4)
+Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源码 | C++企业级项目实战
+:------------:|:------------:|:------------:|:------------:|:------------:
+[🍳](#nav_1)  |[🐕‍🦺](#nav_2)  |[🎵](#nav_3)  |[🌰](#nav_4) |[🎮](#nav_5)
 
 </div>
 
-## <h2 id="nav_1">Linux C/C++服务器</h2>
+## <h2 id="nav_1">🍳 Linux C/C++服务器</h2>
 
 
 ### Offer
@@ -84,6 +84,7 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: txgw &nbsp;&nbsp;&nbsp;   [5000道“八股文”，还需要“死记硬背”吗？90分钟梳理清晰](https://pan.baidu.com/s/1yLlDHvS683kLIVsM-gNCTQ)
 * 提取码: pb65 &nbsp;&nbsp;&nbsp;   [大厂面试必问的UDP应用场景分析-TCP-epoll-reactor](https://pan.baidu.com/s/1jFEWlgc6Le91eniR5i2HDQ)
 * 提取码: jktg &nbsp;&nbsp;&nbsp;   [大厂面试必问-如何实现UDP可靠性传输](https://pan.baidu.com/s/1Cy28P5qX9Goq4lHPWA-n2w)
+* 提取码: ztuy &nbsp;&nbsp;&nbsp;   [90分钟搞定大厂面试多线程问题](https://pan.baidu.com/s/1LXz_8K5yo2GwSOtikInIDQ)
 
 <br/>
 
@@ -117,7 +118,6 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: ypf8 &nbsp;&nbsp;&nbsp;   [深入理解websocket，为你的项目多条思路](https://pan.baidu.com/s/1vs--2HILFVFlZMrNcEl81Q)
 * 提取码: uy8j &nbsp;&nbsp;&nbsp;   [深入聊聊websocket协议，restful, tcp分包与粘包](https://pan.baidu.com/s/1p2RnNdRGMKreAoLScJWwWw)
 * 提取码: klwf &nbsp;&nbsp;&nbsp;   [关于服务通信协议和序列化协议的一些思考分享](https://pan.baidu.com/s/1TcVRZMkXqpM7fq07Dgl6Pw)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [即时通讯网页版本的实现方案，websocket的原理]()
 * 提取码: msno &nbsp;&nbsp;&nbsp;   [必知必会的服务器通信协议设计](https://pan.baidu.com/s/1BfX8qRXw1UxmA2Vn7TVnSQ)
 * 提取码: lr3t &nbsp;&nbsp;&nbsp;   [徒手实现一个网络协议栈](https://pan.baidu.com/s/1yJ-m680FIGPMMSGvzJZBZA)
 
@@ -176,7 +176,6 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: tlfm &nbsp;&nbsp;&nbsp;   [王者荣耀如何处理海量定时任务](https://pan.baidu.com/s/11xsaScinOiX1zo-CEK-ZTw)
 * 提取码: 4l57 &nbsp;&nbsp;&nbsp;   [手把手写线程池](https://pan.baidu.com/s/14bXoQuzWZ0c6nUtz8HJcCg)
 * 提取码: x4gn &nbsp;&nbsp;&nbsp;   [高性能服务器为什么需要内存池](https://pan.baidu.com/s/10WIWbzI4qxZ4MGkpU0BywA)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [手把手带你实现线程池]()
 
 <br/>
 
@@ -211,6 +210,7 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: h2ag &nbsp;&nbsp;&nbsp;   [90分钟搞懂github怎么实现从海量数据中搜索代码](https://pan.baidu.com/s/1wMBu7aE87ZBZg6O8GxCyXw)
 * 提取码: 8q4m &nbsp;&nbsp;&nbsp;   [一节课搞懂 MySQL 索引和事务](https://pan.baidu.com/s/1ZynxuXYZzcO5htYt8NEAPQ)
 * 提取码: y756 &nbsp;&nbsp;&nbsp;   [一节课搞懂 API 网关 openresty 的实现原理](https://pan.baidu.com/s/1m3cKskI14EKW4V2Xpl_8Sg)
+* 提取码: wwps &nbsp;&nbsp;&nbsp;   [10年大厂程序员是如何学习使用redis](https://pan.baidu.com/s/1TRyB_Ij1mqRI9_7BmxrQFA)
 
 <br/>
 
@@ -246,12 +246,12 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 <br/>
 
 
-## <h2 id="nav_2">GoLang云原生</h2>
+## <h2 id="nav_2">🐕‍ GoLang云原生</h2>
 
 <br/>
 <br/>
 
-## <h2 id="nav_3">音视频</h2>
+## <h2 id="nav_3">🎵 音视频</h2>
 
 * 提取码: uc22 &nbsp;&nbsp;&nbsp;   [90分钟搞定FFmpeg入门](https://pan.baidu.com/s/1UftGrV5QG6Gr4TCv3LIbUA)
 * 提取码: mm6p &nbsp;&nbsp;&nbsp;   [90分钟解决音视频同步的各种坑](https://pan.baidu.com/s/1d_ufwUjoTvpgU1ZnMDY6eA)
@@ -286,8 +286,9 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [风口最火的WebRTC Janus项目分析](https://pan.baidu.com/s/1lV77qmvZt3vW_wDxkGWFcw)
 
 <br/>
+<br/>
 
-## <h2 id="nav_3">Linux内核源码专栏</h2>
+## <h2 id="nav_4">🌰 Linux内核源码专栏</h2>
 
 * 提取码: cz9e &nbsp;&nbsp;&nbsp;   [初识Linux内核，进程通信能这么玩](https://pan.baidu.com/s/1t5LAdSsXmh5e7x_YFd-bmw)
 * 提取码: 0h5j &nbsp;&nbsp;&nbsp;   [工程师的圣地—Linux内核,谈谈内核的架构](https://pan.baidu.com/s/1u0TGduyoaOTfDIqCpTkjQQ)
@@ -346,6 +347,76 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: j0sv &nbsp;&nbsp;&nbsp;   [深入理解Nginx模块与架构解析](https://pan.baidu.com/s/1Fj7w9BOJ3aAe28PcLJMrQw)
 * 提取码: khaf &nbsp;&nbsp;&nbsp;   [手写360系统垃圾清理工具](https://pan.baidu.com/s/1SjG6BqngY_pB2WVxbBWioA)
 * 提取码: 2c29 &nbsp;&nbsp;&nbsp;   [硬件时钟及时钟运作机制](https://pan.baidu.com/s/1x8bRU3Yp7Pb7JfL8NEt9Kw)
+
+<br/>
+<br/>
+
+## <h2 id="nav_5">🎮 C++企业级项目实战</h2>
+
+* 提取码: hr2a &nbsp;&nbsp;&nbsp;   [C/C++开发《太空大战游戏》](https://pan.baidu.com/s/1QT2x6pyFwEU5d6Nhyx-99g)
+* 提取码: owg9 &nbsp;&nbsp;&nbsp;   [C/C++开发《系统浏览文件工具》](https://pan.baidu.com/s/1hDgdIxGenbsRIeZgGfuzwQ)
+* 提取码: uubi &nbsp;&nbsp;&nbsp;   [Linux高性能服务器程序架构(下)](https://pan.baidu.com/s/1lH9afq0D7ZYHDhmz-rc3lQ)
+* 提取码: 314g &nbsp;&nbsp;&nbsp;   [Linux高性能服务器程序架构](https://pan.baidu.com/s/1FWv0rqGMzIJJwJPV_uDUSA)
+* 提取码: 3u6t &nbsp;&nbsp;&nbsp;   [Windows编程开发必学高级控件](https://pan.baidu.com/s/1u5eT3MMpBqgXfk_iI_A8Rg)
+* 提取码: qf9l &nbsp;&nbsp;&nbsp;   [手把手写《愤怒的小鸟弹球》游戏](https://pan.baidu.com/s/1hT-WHuJwVXn-PKRMUhNXHQ)
+* 提取码: gvil &nbsp;&nbsp;&nbsp;   [掌握《互联网聊天室系统架构》](https://pan.baidu.com/s/1cngPlxhawH_LgX8jacnerw)
+* 提取码: uqzi &nbsp;&nbsp;&nbsp;   [2小时搞定C语言精华《指针编程》](https://pan.baidu.com/s/1HalO7LNlMNy7yVeTIrdLrA)
+* 提取码: qyrs &nbsp;&nbsp;&nbsp;   [2小时搞定控制游戏怪兽技能](https://pan.baidu.com/s/1KA3RAdJk3UykNhPelYvYIA)
+* 提取码: agam &nbsp;&nbsp;&nbsp;   [2小时精通C语言精髓《指针》](https://pan.baidu.com/s/12Gj7UQ69--aeOU2IBfltdA)
+* 提取码: gwly &nbsp;&nbsp;&nbsp;   [2小时精通C语言十大常用算法（一)](https://pan.baidu.com/s/1HjLVXDzgwb8erF6eu58NqA)
+* 提取码: i2ha &nbsp;&nbsp;&nbsp;   [2小时精通掌握《STL模板库》技术](https://pan.baidu.com/s/1P-DLZypVGtuNj2o_hfE5lA)
+* 提取码: k6mt &nbsp;&nbsp;&nbsp;   [2小时剖析C.C++编程精华《指针详解》](https://pan.baidu.com/s/1EZcIvMOOwYC2Yx5Kh5341A)
+* 提取码: zeb2 &nbsp;&nbsp;&nbsp;   [2小时轻松学握《指针与链表》精华](https://pan.baidu.com/s/1hUU6zziOIcwvu4mVB5kOyw)
+* 提取码: 4jaz &nbsp;&nbsp;&nbsp;   [C/C++《服务器设计模型》](https://pan.baidu.com/s/1BoDn0_ewSKyOPyKEd12YIg)
+* 提取码: 2od7 &nbsp;&nbsp;&nbsp;   [C/C++打造简易《TCP服务器端》程序](https://pan.baidu.com/s/1iQcNGoDIWeioFe1SBW7KIw)
+* 提取码: 8bvr &nbsp;&nbsp;&nbsp;   [C/C++操作DB数据信息（增删改查)](https://pan.baidu.com/s/1Qe0ZN-spjo91Ts8hHWHioQ)
+* 提取码: c268 &nbsp;&nbsp;&nbsp;   [C/C++打造逆向工具《端口扫描神器》](https://pan.baidu.com/s/10EeeVdtB9hDbXyEav-UYrQ)
+* 提取码: 8146 &nbsp;&nbsp;&nbsp;   [C/C++开发《用户与密码验证系统》](https://pan.baidu.com/s/18d4tvv8pFC9jNhFfJeX9vQ)
+* 提取码: m6cb &nbsp;&nbsp;&nbsp;   [C/C++开发经典版《俄罗斯方块游戏》](https://pan.baidu.com/s/1g2JdaoQeAg2qbf47pqFLcA)
+* 提取码: z42b &nbsp;&nbsp;&nbsp;   [CS模式网络服务器端模型(IOCP)](https://pan.baidu.com/s/10olfRR-o8TCGjcsrXNVQ0w)
+* 提取码: 2cdm &nbsp;&nbsp;&nbsp;   [C语言与二叉树遍历算法](https://pan.baidu.com/s/1EO5T-JsNa-UytuynIZTs2A)
+* 提取码: acm8 &nbsp;&nbsp;&nbsp;   [IOCP高性能服务器之《客户端压力测试系统》](https://pan.baidu.com/s/1lIayHsgRYPIm8t1gh_0s8w)
+* 提取码: idog &nbsp;&nbsp;&nbsp;   [Linux内核缓存和刷新机制](https://pan.baidu.com/s/13aMaHuSCYiEUEZuq_vuSIQ)
+* 提取码: bsk5 &nbsp;&nbsp;&nbsp;   [Linux内核伙伴算法和Slab分配器](https://pan.baidu.com/s/1u-3utsUBHYFY6ftduejpTw)
+* 提取码: 7l1l &nbsp;&nbsp;&nbsp;   [TCP三次四次握手](https://pan.baidu.com/s/10X8qxErD6txpMNbwCIJDhA)
+* 提取码: y4yl &nbsp;&nbsp;&nbsp;   [Web服务器之《进程池和线程池》](https://pan.baidu.com/s/1FE6XBQ1hc1tkmKkTTabgZA)
+* 提取码: e240 &nbsp;&nbsp;&nbsp;   [Windows高负载服务器之IOCP模型](https://pan.baidu.com/s/1c12PX6ASMM6Ex5IGH1lQfg)
+* 提取码: wxdf &nbsp;&nbsp;&nbsp;   [Windows系统垃圾清理工具](https://pan.baidu.com/s/1fEKHhhwcyGJ-sSbTL3iuyA)
+* 提取码: u2z4 &nbsp;&nbsp;&nbsp;   [博弈五子棋(人机对战)](https://pan.baidu.com/s/1itcGYJdp9sC0t6I_Gdmk7g)
+* 提取码: exjx &nbsp;&nbsp;&nbsp;   [带你手写《腾讯QQ文件传输功能》](https://pan.baidu.com/s/1Knhkx9dvCsozoZNN1BJWNg)
+* 提取码: yzkd &nbsp;&nbsp;&nbsp;   [服务器开发入门必学核心知识](https://pan.baidu.com/s/1IJUDJHdlNP562oKxYZ-pSQ)
+* 提取码: o25c &nbsp;&nbsp;&nbsp;   [高并发Web服务器之《进程池和线程池》](https://pan.baidu.com/s/1dnw6_YDuJ57Bqa50vOhq5Q)
+* 提取码: mwm0 &nbsp;&nbsp;&nbsp;   [高负载服务器IOCP模型项目实战](https://pan.baidu.com/s/17MgQ7TOd52ZZlIbIyImmFg)
+* 提取码: 8fui &nbsp;&nbsp;&nbsp;   [计算机系统《硬盘监控软件》](https://pan.baidu.com/s/1vPM3jdE1t9D6rYmyBLno1A)
+* 提取码: depr &nbsp;&nbsp;&nbsp;   [教你打造《系统任务管理器》(二)](https://pan.baidu.com/s/11My5yE9DoTaMMjFAaX8qUg)
+* 提取码: f638 &nbsp;&nbsp;&nbsp;   [教你亲手开发《加密与解密工具软件》](https://pan.baidu.com/s/12qJe7lDK4PGEltIE4zrizQ)
+* 提取码: piea &nbsp;&nbsp;&nbsp;   [教你亲自开发《聊天室服务器》](https://pan.baidu.com/s/1LNJVCnzqXW3frrva1ZXlAQ)
+* 提取码: 618t &nbsp;&nbsp;&nbsp;   [教你手写360系统垃圾清理工具](https://pan.baidu.com/s/1yJTD-5TxoWE-H9qR7gzO5Q)
+* 提取码: 8hrp &nbsp;&nbsp;&nbsp;   [教你手写游戏中怪兽魔法技能](https://pan.baidu.com/s/105EF2MFff7kOXUI_qAbUBA)
+* 提取码: erie &nbsp;&nbsp;&nbsp;   [教你用CC++控制游戏角色_怪善](https://pan.baidu.com/s/1XJ8SKY_JewBRw2Fztkvc9Q)
+* 提取码: h5fp &nbsp;&nbsp;&nbsp;   [vico教你用CC++控制游戏角色怪兽](https://pan.baidu.com/s/1I686M1zBEi0Y_aS1AGz_0A)
+* 提取码: udzy &nbsp;&nbsp;&nbsp;   [精讲C++STL标准模板库](https://pan.baidu.com/s/15l_8raKtDXgjH4YgL-tS6Q)
+* 提取码: 8kuz &nbsp;&nbsp;&nbsp;   [精通网络编程《socket套接字》技术](https://pan.baidu.com/s/1cF22KBCMLSIM0RvQ4UBMyA)
+* 提取码: 5bld &nbsp;&nbsp;&nbsp;   [面试大厂必考《预处理及内存管理》](https://pan.baidu.com/s/15NNj6ZdSV6OthcigGiKUPg)
+* 提取码: eb6t &nbsp;&nbsp;&nbsp;   [面试官必考的《算法设计之链表》](https://pan.baidu.com/s/1YEfcWMVdDbViRgRjzyMnKw)
+* 提取码: 624j &nbsp;&nbsp;&nbsp;   [秒杀电脑系统核心参数(内存与CPU) ](https://pan.baidu.com/s/150qRvmhYtBaP88CdLBEVsw)
+* 提取码: o0xr &nbsp;&nbsp;&nbsp;   [剖析Linux进程fork&vfork&clone原理机制](https://pan.baidu.com/s/1XSMo8xScDNsq9lBBGqkaEw)
+* 提取码: n1hb &nbsp;&nbsp;&nbsp;   [剖析Linux内核进程调度与切换](https://pan.baidu.com/s/1MK48XUGdvShyuDlrbvWECw)
+* 提取码: v77g &nbsp;&nbsp;&nbsp;   [剖析Linux内核设备驱动程序](https://pan.baidu.com/s/1Vi8CewOFIXKffRCIvpLK3g)
+* 提取码: ii8l &nbsp;&nbsp;&nbsp;   [剖析Linux内核锁及进程间通信](https://pan.baidu.com/s/1DoU1HkRVax2Sx1P5ku8UFQ)
+* 提取码: o170 &nbsp;&nbsp;&nbsp;   [剖析Linux源码《内核活动》](https://pan.baidu.com/s/1P8SabhyUY3axJmC8zDbq2g)
+* 提取码: hd1u &nbsp;&nbsp;&nbsp;   [让你不再害怕C语言中的《指针》](https://pan.baidu.com/s/1FWDFq_Y1Hnm_MGqYdq-88w)
+* 提取码: tixt &nbsp;&nbsp;&nbsp;   [深度解析《大厂经典面试算法》](https://pan.baidu.com/s/1IefVzWSvWptX5G2gW3x2DA)
+* 提取码: aex2 &nbsp;&nbsp;&nbsp;   [深度剖析Linux系统内核源码](https://pan.baidu.com/s/1-mt40EqMyyJ-dFGsqjjfKA)
+* 提取码: 3nez &nbsp;&nbsp;&nbsp;   [深度挖掘网络爬虫之BFS算法](https://pan.baidu.com/s/1sLottlKKDnvKefQ2DxKa1g)
+* 提取码: 3trd &nbsp;&nbsp;&nbsp;   [深透掌握《指针与双链表》精华](https://pan.baidu.com/s/1dfE7Iv9mLI0nx-NfDrFdjQ)
+* 提取码: 9e5i &nbsp;&nbsp;&nbsp;   [数据信息转发服务器程序](https://pan.baidu.com/s/1jeVTs55zydjDE7Meiy2C3g)
+* 提取码: 3k5o &nbsp;&nbsp;&nbsp;   [腾讯QQ之《文件极速传输工具》](https://pan.baidu.com/s/1OupXI9eNPgIZVJUP3T7a1A)
+* 提取码: w94b &nbsp;&nbsp;&nbsp;   [系统《任务管理器》监控工具](https://pan.baidu.com/s/1MRbqi69RgHz97shiGCOKcQ)
+* 提取码: ymgu &nbsp;&nbsp;&nbsp;   [小白学懂会用《多线程编程》秘籍](https://pan.baidu.com/s/1Fwp_W6VAnxqvGLb7vWj4tw)
+* 提取码: nbkd &nbsp;&nbsp;&nbsp;   [教你亲手开发聊天室《客户端系统》](https://pan.baidu.com/s/1mj06-nxa6my4BHpEK9cWUw)
+* 提取码: 63x7 &nbsp;&nbsp;&nbsp;   [教你用CC++控制游戏角色_怪兽](https://pan.baidu.com/s/15apNvhoqkHNZrXfTWA3IKA)
+
 
 <br/>
 <br/>
