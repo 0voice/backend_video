@@ -164,19 +164,19 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 
 ### 基础组件实现专栏
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   160行代码带你手写线程池，面试不惧手撕（完整版)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   数据库C++连接池技术内幕揭秘
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   程序性能优化—异步的帮你解?决80%的问题(1)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   150行代码,手把手写完线程池（完整版)
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   大家都讨论的百万并发
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   大型项目协议设计-protobuffer
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   多线程环境下定时器设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高并发定时器实现
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   海量高并发定时器设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高性能框架如何处理海量定时任务
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   手把手写线程池
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   高性能服务器为什么需要内存池
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   手把手带你实现线程池
+* 提取码: g6p5 &nbsp;&nbsp;&nbsp;   [160行代码带你手写线程池，面试不惧手撕](https://pan.baidu.com/s/1sbi5dEiySkleHB8mHs9kPw)
+* 提取码: 3lmp &nbsp;&nbsp;&nbsp;   [数据库C++连接池技术内幕揭秘](https://pan.baidu.com/s/1I2R6VgLf4LHMmP1_0LSc_Q)
+* 提取码: e2qc &nbsp;&nbsp;&nbsp;   [程序性能优化—异步的帮你解?决80%的问题](https://pan.baidu.com/s/1FXsXX7NorNP638khv6HwHQ)
+* 提取码: tg35 &nbsp;&nbsp;&nbsp;   [150行代码,手把手写完线程池](https://pan.baidu.com/s/1JG-oLn_JWnSldTw1UGrFTQ)
+* 提取码: v16j &nbsp;&nbsp;&nbsp;   [大家都讨论的百万并发](https://pan.baidu.com/s/1M8c6IAy1cVt2Wr5Um6Q8Jw)
+* 提取码: 9mro &nbsp;&nbsp;&nbsp;   [大型项目协议设计-protobuffer](https://pan.baidu.com/s/1kUzSTNduy9meSQ2W5DlkzA)
+* 提取码: e5vl &nbsp;&nbsp;&nbsp;   [多线程环境下定时器设计](https://pan.baidu.com/s/1Uf7SyuvsHHG9XsmbflqJZQ)
+* 提取码: 4esv &nbsp;&nbsp;&nbsp;   [高并发定时器实现](https://pan.baidu.com/s/1qYiEgawa_WFjDbuIBAcUPg)
+* 提取码: x3e3 &nbsp;&nbsp;&nbsp;   [海量高并发定时器设计](https://pan.baidu.com/s/1Sk0yVh5k2hXRkn8AZqxdCQ)
+* 提取码: tlfm &nbsp;&nbsp;&nbsp;   [王者荣耀如何处理海量定时任务](https://pan.baidu.com/s/11xsaScinOiX1zo-CEK-ZTw)
+* 提取码: 4l57 &nbsp;&nbsp;&nbsp;   [手把手写线程池](https://pan.baidu.com/s/14bXoQuzWZ0c6nUtz8HJcCg)
+* 提取码: x4gn &nbsp;&nbsp;&nbsp;   [高性能服务器为什么需要内存池](https://pan.baidu.com/s/10WIWbzI4qxZ4MGkpU0BywA)
+* 提取码: 1234 &nbsp;&nbsp;&nbsp;   [手把手带你实现线程池]()
 
 <br/>
 
