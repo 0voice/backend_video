@@ -253,37 +253,36 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 
 ## <h2 id="nav_3">音视频</h2>
 
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   90分钟搞定FFmpeg入门
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   90分钟解决音视频同步的各种坑
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   -聊聊音视频同步那些坑
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   B站播放设计原理和实现
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   万人在线会议系统开发实践
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频直播的各种坑
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   SRS直播流媒体服务器框架分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   一堂课搞定SRS流媒体服务器开发进阶
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   全网唯一的ffmpeg命令源码分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频岗位面试问到的播放器问题
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   百万级SRS流媒体服务器源码分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   罗永浩百万人直播背后的技术分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   C/C++程序员5G时代的风口-音视频开发
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   当音频和视频不同步时该怎么分析和解决
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   腾讯会议背后的核心技术剖析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频开发第一个项目-播放器设计
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   B站播放器设计原理和实现-SRS-RTMP-HLS-DASH-WEBRTC
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   FFmpeg常用结构体及ffplay框架分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   FFmpeg之音视频同步原理分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   FFmpeg最佳学习实践
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   C和C＋+程序员的黄金方向-音视频开发
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   快速掌握音视频开发基础知识
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   快速掌握音视频开发基础知识
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   万人直播-流媒体服务器框架分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   迅雷下载的哪些事儿，P2P
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频皇冠中的皇冠-ffmpeg.c框架剖析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   音视频开发最佳实践
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   直播拉流关键技术点分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   全球Star第一的流媒体服务器SRS4.0 WebRTC音视频通话分析
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   低延迟播放器-变速播放实现
-* 提取码: 1234 &nbsp;&nbsp;&nbsp;   C/C++程序员进入互联网公司的捷径-WebRTC开发
+* 提取码: uc22 &nbsp;&nbsp;&nbsp;   [90分钟搞定FFmpeg入门](https://pan.baidu.com/s/1UftGrV5QG6Gr4TCv3LIbUA)
+* 提取码: mm6p &nbsp;&nbsp;&nbsp;   [90分钟解决音视频同步的各种坑](https://pan.baidu.com/s/1d_ufwUjoTvpgU1ZnMDY6eA)
+* 提取码: 3lrs &nbsp;&nbsp;&nbsp;   [聊聊音视频同步那些坑](https://pan.baidu.com/s/18xBR_3jxxFz5XNPH-3eYTA)
+* 提取码: khd9 &nbsp;&nbsp;&nbsp;   [B站播放设计原理和实现](https://pan.baidu.com/s/1aLnUYbC8q_Vvf6QlxxnlCA)
+* 提取码: p2g3 &nbsp;&nbsp;&nbsp;   [万人在线会议系统开发实践](https://pan.baidu.com/s/1anMz_DvPQ4PiFyuPL4STVQ)
+* 提取码: j8lx &nbsp;&nbsp;&nbsp;   [音视频直播的各种坑](https://pan.baidu.com/s/1uJ-aHc-waX8-5TdmW7BiWA)
+* 提取码: rxqx &nbsp;&nbsp;&nbsp;   [SRS直播流媒体服务器框架分析](https://pan.baidu.com/s/12SxnH5ph6ViJtKZVVbgx_A)
+* 提取码: ylhd &nbsp;&nbsp;&nbsp;   [一堂课搞定SRS流媒体服务器开发进阶](https://pan.baidu.com/s/1cnbHUWfvfQNcOA150mhQCg)
+* 提取码: ibr4 &nbsp;&nbsp;&nbsp;   [全网唯一的ffmpeg命令源码分析](https://pan.baidu.com/s/1vlLvdWXD9sjcAVx2un3GWQ)
+* 提取码: nwzc &nbsp;&nbsp;&nbsp;   [音视频岗位面试问到的播放器问题](https://pan.baidu.com/s/1sSWRpV0eVra--DQeDiws7Q)
+* 提取码: fg8v &nbsp;&nbsp;&nbsp;   [百万级SRS流媒体服务器源码分析](https://pan.baidu.com/s/1mQ2l6zyn87jkONpjZXgnVA)
+* 提取码: jjno &nbsp;&nbsp;&nbsp;   [罗永浩百万人直播背后的技术分析](https://pan.baidu.com/s/1X-mhebqmalTZsRU0ulHHbQ)
+* 提取码: mv8z &nbsp;&nbsp;&nbsp;   [C/C++程序员5G时代的风口-音视频开发](https://pan.baidu.com/s/1qTTLqWhDO1l0toFUjEUepQ)
+* 提取码: k7m7 &nbsp;&nbsp;&nbsp;   [当音频和视频不同步时该怎么分析和解决](https://pan.baidu.com/s/14r6w_IcXbQeKWD8uaAax7w)
+* 提取码: hpi4 &nbsp;&nbsp;&nbsp;   [腾讯会议背后的核心技术剖析](https://pan.baidu.com/s/1MFFk3zypzLFi0gaMzFcTfw)
+* 提取码: xbz9 &nbsp;&nbsp;&nbsp;   [音视频开发第一个项目-播放器设计](https://pan.baidu.com/s/1_gJZs__ieW1bXO-R6AETpA)
+* 提取码: k7bp &nbsp;&nbsp;&nbsp;   [B站播放器设计原理和实现-SRS-RTMP-HLS-DASH-WEBRTC](https://pan.baidu.com/s/13b16G4rvAC3je1oDHz7Uaw)
+* 提取码: 9ch1 &nbsp;&nbsp;&nbsp;   [FFmpeg常用结构体及ffplay框架分析](https://pan.baidu.com/s/1KCYOsZRB8-kB2nx4720L9Q)
+* 提取码: izx5 &nbsp;&nbsp;&nbsp;   [FFmpeg之音视频同步原理分析](https://pan.baidu.com/s/1NQFHl01qTDVK_GRTW2r5KQ)
+* 提取码: khju &nbsp;&nbsp;&nbsp;   [FFmpeg最佳学习实践](https://pan.baidu.com/s/1mw4JSLfQI_3PFap2tzdA7w)
+* 提取码: lcw9 &nbsp;&nbsp;&nbsp;   [C和C＋+程序员的黄金方向-音视频开发](https://pan.baidu.com/s/1qkG5KZsGox_dzilH3_cs2Q)
+* 提取码: 9gyp &nbsp;&nbsp;&nbsp;   [快速掌握音视频开发基础知识](https://pan.baidu.com/s/1YUTuIcLTro-9LRWghFp5Vw)
+* 提取码: uahr &nbsp;&nbsp;&nbsp;   [万人直播-流媒体服务器框架分析](https://pan.baidu.com/s/10pmlbt5QVou2pscMrk3ryA)
+* 提取码: wyib &nbsp;&nbsp;&nbsp;   [迅雷下载的哪些事儿，P2P](https://pan.baidu.com/s/12x2oPfUlM0l6gcXnWjWfag)
+* 提取码: n4ue &nbsp;&nbsp;&nbsp;   [音视频皇冠中的皇冠-ffmpeg.c框架剖析](https://pan.baidu.com/s/14Nsb9Y_IRS6JsVqvrI7KiQ)
+* 提取码: wwo9 &nbsp;&nbsp;&nbsp;   [音视频开发最佳实践](https://pan.baidu.com/s/1r4cIoFG3BlD_4TpjywTctw)
+* 提取码: doi8 &nbsp;&nbsp;&nbsp;   [直播拉流关键技术点分析](https://pan.baidu.com/s/1g_ygIjld6L7QrqVEk6rnRQ)
+* 提取码: 6h8b &nbsp;&nbsp;&nbsp;   [全球Star第一的流媒体服务器SRS4.0 WebRTC音视频通话分析](https://pan.baidu.com/s/1cZ9mmFsetmiidVqTjQInXA)
+* 提取码: jlim &nbsp;&nbsp;&nbsp;   [低延迟播放器-变速播放实现](https://pan.baidu.com/s/1_jWmffuXFyF9-ofEA3tAvQ)
+* 提取码: 1c5u &nbsp;&nbsp;&nbsp;   [C/C++程序员进入互联网公司的捷径-WebRTC开发](https://pan.baidu.com/s/1OHBPLp8QBb-bjlWvM8j-_w)
 * 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [风口最火的WebRTC Janus项目分析](https://pan.baidu.com/s/1lV77qmvZt3vW_wDxkGWFcw)
 
 <br/>
