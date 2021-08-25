@@ -317,7 +317,7 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: 2iae &nbsp;&nbsp;&nbsp;   [音视频面试必问-RTSP_RTMP推流的各种坑分析](https://pan.baidu.com/s/1xqbpefnc3hzc0kmQHC0Zpw)
 * 提取码: gelp &nbsp;&nbsp;&nbsp;   [音视频面试必问的直播延迟分析](https://pan.baidu.com/s/15lCZZWt0pGTiw2gktaUGdw)
 * 提取码: 0wit &nbsp;&nbsp;&nbsp;   [怎么更快速地学习FFmpeg](https://pan.baidu.com/s/1toqdTIZN4khLVU7nCZUMCg)
-* 提取码: woo9 &nbsp;&nbsp;&nbsp;   [直播技术架构分析-让你的直播秒开](https://pan.baidu.com/s/16b-_dwdU0HL6L2oviESmtg)
+* 提取码: wh04 &nbsp;&nbsp;&nbsp;   [直播技术架构分析-让你的直播秒开](https://pan.baidu.com/s/1QQKNzorjn9rAzZAPUgCXGA)
 
 
 * 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [UDP三大高并发应用场景剖析]()
