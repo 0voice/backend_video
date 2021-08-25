@@ -89,6 +89,8 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: jktg &nbsp;&nbsp;&nbsp;   [大厂面试必问-如何实现UDP可靠性传输](https://pan.baidu.com/s/1Cy28P5qX9Goq4lHPWA-n2w)
 * 提取码: ztuy &nbsp;&nbsp;&nbsp;   [90分钟搞定大厂面试多线程问题](https://pan.baidu.com/s/1LXz_8K5yo2GwSOtikInIDQ)
 * 提取码: tixt &nbsp;&nbsp;&nbsp;   [深度解析《大厂经典面试算法》](https://pan.baidu.com/s/1IefVzWSvWptX5G2gW3x2DA)
+* 提取码: 62tz &nbsp;&nbsp;&nbsp;   [C++岗位面试必问的UDP技术点](https://pan.baidu.com/s/14QGjzeMHIVNYhtq1rCQR7Q)
+* 提取码: 0818 &nbsp;&nbsp;&nbsp;   [腾讯游戏面试必问的UDP可靠性设计](https://pan.baidu.com/s/1qpt3xYmzouPt9xSkHl9LSg)
 
 <br/>
 
@@ -124,6 +126,7 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: klwf &nbsp;&nbsp;&nbsp;   [关于服务通信协议和序列化协议的一些思考分享](https://pan.baidu.com/s/1TcVRZMkXqpM7fq07Dgl6Pw)
 * 提取码: msno &nbsp;&nbsp;&nbsp;   [必知必会的服务器通信协议设计](https://pan.baidu.com/s/1BfX8qRXw1UxmA2Vn7TVnSQ)
 * 提取码: lr3t &nbsp;&nbsp;&nbsp;   [徒手实现一个网络协议栈](https://pan.baidu.com/s/1yJ-m680FIGPMMSGvzJZBZA)
+* 提取码: 5hrh &nbsp;&nbsp;&nbsp;   [UDP三大高并发应用场景剖析](https://pan.baidu.com/s/1BgDnoIK3uHeOu5qISdvSDQ)
 
 <br/>
 
@@ -217,6 +220,64 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: wwps &nbsp;&nbsp;&nbsp;   [10年大厂程序员是如何学习使用redis](https://pan.baidu.com/s/1TRyB_Ij1mqRI9_7BmxrQFA)
 * 提取码: j0sv &nbsp;&nbsp;&nbsp;   [深入理解Nginx模块与架构解析](https://pan.baidu.com/s/1Fj7w9BOJ3aAe28PcLJMrQw)
 
+
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [openresty]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [10年程序如何理解libevent]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [10年程序员如何理解设计模式]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [10年程序员如何学习使用redis]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分析搞懂mysql索引及其优化]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞定redis面试]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂libevent网络库]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂linux网络编程关注的问题]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂MySQL InnoDB索引以及事务]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂mysql缓存问题的解决方案]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂nginx中锁的使用，让你把锁整的明明白白]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂redis存储结构]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂定时器设计]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂分布式锁以及数据库锁]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂网络编程相关的细节处理]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [90分钟搞懂线程锁、进程锁以及分布式锁]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [epoll 原理剖析以及reactor模型应用]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [linux多线程网络编程要义]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [nginx限制了你的想象?那么请用openresty]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [redis,skynet,nginx,memcached网络模块对比分析]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [redis的rehash，布隆过滤器，redis持久化一节课搞定]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [redis如何实现分布式锁延时队列以及限流应用]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [redis是什么，用来做什么，要掌握到什么程度]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [skynet手撕万人同时在线游戏]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [从libevent看网络编程的封装,一节课让你豁然开朗]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [从开源框架看网络模块封装]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [从设计模式看如何提升程序员的工程素养]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [大厂redis面试，你能get到几个点]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [大厂秋招面试必备-从redis应用以及原理说起]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [大厂如何解决mysql读写效率问题]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [定时器、延时队列以及分布式定时器]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [定时器设计以及应用]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [多维度了解redis以及原理实现]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [多线程环境下海量定时任务的定时器设计]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [多线程网络编程]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [分布式定时器如何实现]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [海量数据去重，hash、布隆过滤器以及hyperloglog]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [基于linux epoll网络编程细节处理]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [你所需要掌握的MySQL基本原理:索引和事务]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [如何最大限度榨干数据库性能，全网最细节讲解缓存方案实现]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [设计模式]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [时间轮-海量定时任务的定时器设计]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [手把手带你看redis， skynet网络模块实现]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [数据库缓存方案到底有多少花样，一节课带你缕清]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [线程锁，进程锁以及分布式锁]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [线程锁、进程锁、分布式锁以及数据库锁]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [学会nginx中锁的使用，让你醍醵灌顶]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [—场redis线上事故引发的思考]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [—节课搞懂API网关openresty的实现原理]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [—节课搞懂MySQL索引和事务]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [—节课搞懂分布式多播以及消息队列的redis解决方案]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [—节课搞懂开源框架(redis, nginx, skynet)中锁的使用]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [—节课详尽讲解提升MySQL读写性能的方案]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [用skynet手撕万人同时在线游戏]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [游戏服务器框架-skynet，如何将高并发做到极致]()
+* 提取码: kjgw &nbsp;&nbsp;&nbsp;   [掌握skynet，后端开发原来如此简单]()
+
 <br/>
 
 ### 开源框架
@@ -246,6 +307,8 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: tplb &nbsp;&nbsp;&nbsp;   [起来聊聊即时通讯架构技术选项](https://pan.baidu.com/s/1TENeFNLRktZhEvOYEc5Z3g)
 * 提取码: jk6b &nbsp;&nbsp;&nbsp;   [起来聊聊微信的架构设计](https://pan.baidu.com/s/1yS9PlGEqwx3GA1p-wVEPCQ)
 * 提取码: ek17 &nbsp;&nbsp;&nbsp;   [即时通讯的软件架构与设计，请带上小板凳](https://pan.baidu.com/s/1ZEt9jyyhQLFr4hrkeXJ9ww)
+
+
 
 <br/>
 <br/>
@@ -318,27 +381,6 @@ Linux C/C++服务器 |GoLang云原生   |高级音视频流媒体|Linux内核源
 * 提取码: gelp &nbsp;&nbsp;&nbsp;   [音视频面试必问的直播延迟分析](https://pan.baidu.com/s/15lCZZWt0pGTiw2gktaUGdw)
 * 提取码: 0wit &nbsp;&nbsp;&nbsp;   [怎么更快速地学习FFmpeg](https://pan.baidu.com/s/1toqdTIZN4khLVU7nCZUMCg)
 * 提取码: wh04 &nbsp;&nbsp;&nbsp;   [直播技术架构分析-让你的直播秒开](https://pan.baidu.com/s/1QQKNzorjn9rAzZAPUgCXGA)
-
-
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [UDP三大高并发应用场景剖析]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [百万并发级别的IM通信协议设计]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [大厂面试,udp不了解这些，何以过关]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [大厂面试必问-如何实现UDP可靠性传输]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [C++岗位面试必问的UDP技术点]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [C++方向-分布式存储-fastdfs-ceph]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [BAT面试必问的多线程知识]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [多进程、多线程、线程使用场景分析]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [高并发之protobuf通信协议设计]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [高性能服务器之数据库连接池设计与实现]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [聊聊腾讯面试问到的多线程]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [如何设计高效日志库]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [如何在工作中用好UDP传输]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [如何在开发中使用redis]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [数据库C+＋连接池技术内幕揭秘]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [腾讯游戏面试必问的UDP可靠性设计]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [王者荣耀如何使用UDP做到低延迟]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [微服务架构必备利器-ETCD注册发现服务]()
-* 提取码: 8ymk &nbsp;&nbsp;&nbsp;   [为什么BAT大厂面试的都容易问到UDP传输]()
 
 <br/>
 <br/>
