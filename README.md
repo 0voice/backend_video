@@ -83,7 +83,7 @@ Linux C/C++服务器|高级音视频流媒体|Linux内核源码|C++企业级项�
 * 提取码: 8hpu &nbsp;&nbsp;&nbsp;   [面试中tcpip，哪些容易被问到的](https://pan.baidu.com/s/1w6aJ1IjZkHKKQumud0uiJg)
 * 提取码: ohdi &nbsp;&nbsp;&nbsp;   [面试中问到的那些分布式问题— zookeeper](https://pan.baidu.com/s/1r2BNhZeuRma7EglgH-werA)
 * 提取码: zzcc &nbsp;&nbsp;&nbsp;   [微信面试心得](https://pan.baidu.com/s/1ntGsA6zk0wwsJLdEF4S-dg)
-* 提取码: o7t4 &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官涨薪12W](https://pan.baidu.com/s/16fDzFh7TVOOrkatrfWHITw)
+* 提取码: o7t4 &nbsp;&nbsp;&nbsp;   [学员分享如何搞定面试官](https://pan.baidu.com/s/16fDzFh7TVOOrkatrfWHITw)
 * 提取码: txgw &nbsp;&nbsp;&nbsp;   [5000道“八股文”，还需要“死记硬背”吗？90分钟梳理清晰](https://pan.baidu.com/s/1yLlDHvS683kLIVsM-gNCTQ)
 * 提取码: pb65 &nbsp;&nbsp;&nbsp;   [大厂面试必问的UDP应用场景分析-TCP-epoll-reactor](https://pan.baidu.com/s/1jFEWlgc6Le91eniR5i2HDQ)
 * 提取码: jktg &nbsp;&nbsp;&nbsp;   [大厂面试必问-如何实现UDP可靠性传输](https://pan.baidu.com/s/1Cy28P5qX9Goq4lHPWA-n2w)
