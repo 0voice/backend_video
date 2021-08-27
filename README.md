@@ -226,7 +226,7 @@ Linux C/C++服务器|高级音视频流媒体|Linux内核源码|C++企业级项�
 * <span id="nav_1_middleware_development_028">🧿</span> 提取码: 8q4m &nbsp;&nbsp;&nbsp;   [一节课搞懂 MySQL 索引和事务](https://pan.baidu.com/s/1ZynxuXYZzcO5htYt8NEAPQ)
 * <span id="nav_1_middleware_development_029">🧿</span> 提取码: y756 &nbsp;&nbsp;&nbsp;   [一节课搞懂 API 网关 openresty 的实现原理](https://pan.baidu.com/s/1m3cKskI14EKW4V2Xpl_8Sg)
 * <span id="nav_1_middleware_development_030">🧿</span> 提取码: wwps &nbsp;&nbsp;&nbsp;   [10年大厂程序员是如何学习使用redis](https://pan.baidu.com/s/1TRyB_Ij1mqRI9_7BmxrQFA)
-* <span id="nav_1_middleware_development_031">🧿</span> 提取码: j0sv &nbsp;&nbsp;&nbsp;   [深入理解Nginx模块与架构解析](https://pan.baidu.com/s/1Fj7w9BOJ3aAe28PcLJMrQw
+* <span id="nav_1_middleware_development_031">🧿</span> 提取码: j0sv &nbsp;&nbsp;&nbsp;   [深入理解Nginx模块与架构解析](https://pan.baidu.com/s/1Fj7w9BOJ3aAe28PcLJMrQw)
 * <span id="nav_1_middleware_development_032">🧿</span> 提取码: het1 &nbsp;&nbsp;&nbsp;   [openresty](https://pan.baidu.com/s/1cryytdZoGd3q0Nioc4DoDA)
 
 
