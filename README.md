@@ -51,6 +51,9 @@ Linux C/C++服务器|高级音视频流媒体|Linux内核源码|C++企业级项�
 
 ## <h2 id="nav_1">🍳 Linux C/C++服务器</h2>
 
+### <h3 id="nav_0_linux_architect">Linux C/C++架构师成长之路</h3>
+
+* [Linux C/C++架构师成长之路](https://www.0voice.com/uiwebsite/html/courses/v11.4.html)
 
 ### <h3 id="nav_1_offer">Offer</h3>
 
