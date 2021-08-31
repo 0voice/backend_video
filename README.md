@@ -549,6 +549,10 @@ Linux C/C++服务器|高级音视频流媒体|Linux内核源码|C++企业级项�
 
 ## <h2 id="nav_4">🎮 C++企业级项目实战</h2>
 
+* <span id="nav_4_901">🧿</span> 提取码: hr2a &nbsp;&nbsp;&nbsp;   [火柴人试炼之地](https://github.com/0voice/algorithm-structure/tree/master/视频讲解游戏/火柴人试炼之地)
+* <span id="nav_4_902">🧿</span> 提取码: hr2a &nbsp;&nbsp;&nbsp;   [雷霆战机](https://github.com/0voice/algorithm-structure/tree/master/视频讲解游戏/雷霆战机)
+* <span id="nav_4_903">🧿</span> 提取码: hr2a &nbsp;&nbsp;&nbsp;   [奇怪大冒险](https://github.com/0voice/algorithm-structure/tree/master/视频讲解游戏/奇怪大冒险)
+* <span id="nav_4_904">🧿</span> 提取码: hr2a &nbsp;&nbsp;&nbsp;   [气球塔防](https://github.com/0voice/algorithm-structure/tree/master/视频讲解游戏/气球塔防)
 * <span id="nav_4_001">🧿</span> 提取码: hr2a &nbsp;&nbsp;&nbsp;   [C/C++开发《太空大战游戏》](https://pan.baidu.com/s/1QT2x6pyFwEU5d6Nhyx-99g)
 * <span id="nav_4_002">🧿</span> 提取码: owg9 &nbsp;&nbsp;&nbsp;   [C/C++开发《系统浏览文件工具》](https://pan.baidu.com/s/1hDgdIxGenbsRIeZgGfuzwQ)
 * <span id="nav_4_003">🧿</span> 提取码: uubi &nbsp;&nbsp;&nbsp;   [Linux高性能服务器程序架构(下)](https://pan.baidu.com/s/1lH9afq0D7ZYHDhmz-rc3lQ)
